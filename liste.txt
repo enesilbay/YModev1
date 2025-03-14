@@ -1,0 +1,4 @@
+1-Fotoğraf paylaşma
+2-konum paylaşma
+3-mesajlaşma
+4-video paylaşma
