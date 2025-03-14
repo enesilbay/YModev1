@@ -1,5 +1,5 @@
-1-Fotoğraf paylaşma
-2-konum paylaşma
 3-mesajlaşma
+2-konum paylaşma
+1-Fotoğraf paylaşma
 4-video paylaşma
 5-like atmak
