@@ -2,3 +2,4 @@
 2-konum paylaşma
 3-mesajlaşma
 4-video paylaşma
+5-like atmak
